@@ -1,0 +1,8 @@
+INSERT INTO customer VALUES('16733670277', 'Demir', 'Soner')
+insert into customer_contact values('1', '16733670277', 'JApied1960@dayrep.com', '05219055374', '2.Etap Ýþ Merkezi No:11 Eryaman / ANKARA', 'Ergazi Mah. Baþkent Oto San. Sit. 48. Sok. No:47/A Batýkent / ANKARA' )
+INSERT INTO product VALUES('0', 'Uzatma kablosu', '92.73')
+INSERT INTO employee VALUES('90432917857', 'Topuz', 'Öznur')
+INSERT INTO stock VALUES('0', '1145' )
+INSERT INTO invoice VALUES('1', '1', '2013-03-23 15:28:06' )
+insert into invoice_row values('1', '0', '1533', '65.33', '90432917857' )
+INSERT INTO emp_satisfaction VALUES('90432917857', '1', '2' )
